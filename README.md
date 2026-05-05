@@ -1,3 +1,3 @@
 # Final_SystemImplementation
-Final Project System Implementation 
-Everything is in its own section/branch according to the instructions. Please go to the main drop down box and you will find each section of the project
+when you run the code the dialog box should pop up and you can enter in course info.
+The jar file will automatically run the system once it is downloaded and opened
